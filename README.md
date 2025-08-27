@@ -6,13 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
 
-- 🎓 Full-Stack Developer from Nepal, studying BIT at Tribhuvan University
-- ⚙️ Skilled in Django, DRF, React.js, and JWT Auth
-- 🌐 Passionate about building real-world apps (e.g. chat app, real estate, social media)
-- 💡 Focused on clean APIs, WebSocket integration, and responsive UI
-- 🌱 I’m currently learning **Docker, Celery and advanced Django**
+- 🎓 Full-Stack Developer pursuing a **Bachelors in Information Technology (BIT)** at Tribhuvan University  
+- ⚙️ Proficient in **Django, Django REST Framework, React.js, and JWT Authentication**  
+- 🌐 Experienced in building and deploying **real-world applications** such as chat platforms, real estate systems, and social media apps  
+- 💡 Strong focus on **clean architecture, scalable APIs, WebSocket integration, and responsive UI/UX**  
+- 🚀 Actively learning **Docker, Azure, Celery, and advanced Django practices** to enhance scalability and performance  
 
 ---
 
