@@ -64,7 +64,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: **nmilan626@gmail.com**
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: [milan-bairagi.vercel.com](https://milan-bairagi.vercel.app)
 - 🧑‍💼 LinkedIn: [linkedin.com/in/milanbairagi](https://linkedin.com/in/milan-bairagi)
 
 ---
