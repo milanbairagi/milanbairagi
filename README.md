@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Milan Bairagi 👋</h1>
 
-<p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
-  <a href="mailto:meelanbairagi@gmail.com">📧 Email</a>
-  <a href="https://milan-bairagi.tech" target="_blank" rel="noreferrer">🌐 Portfolio</a>
+<p align="center">
+  <a href="mailto:meelanbairagi@gmail.com">📧 Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://milan-bairagi.tech" target="_blank" rel="noreferrer">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/milanbairagi" target="_blank" rel="noreferrer">💼 LinkedIn</a>
 </p>
 
