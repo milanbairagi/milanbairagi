@@ -34,6 +34,7 @@
 
 ### **Frontend:**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20Query-FF4154?logo=tanstack&logoColor=white&style=flat)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05054B?style=flat&logo=bootstrap&logoColor=white)
